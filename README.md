@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- level 1: simple bio and stats -->
 
-<!--
-**hateplay/hateplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h6 align="center"> rentry for info </h6> 
+<p align="center">
+<img src="https://file.garden/Z5VLhJB-RwipIekD/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80496_20250523103819.png" alt="tacticalsekt's custom image"/>
+</p>
+</p>
+ 
+　<h4 align="center">[rentry](https://rentry.co/hateplay)　﹒ 　[ata](https://cptmc.atabook.org/)　﹒ 　[prns.pg](https://pronouns.cc/@LINKEDGUT)　</h3>
 
-Here are some ideas to get you started:
+ 
+ <h6 align="center"> ic : veilziz </h6>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
